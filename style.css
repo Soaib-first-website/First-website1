@@ -1,0 +1,40 @@
+<Style>
+    h1{color: red;
+    background-color: yellow;
+    height: 90px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;}
+    p{
+        color: blue;    
+        font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: justify;
+    }
+    #Allah{
+        color:blueviolet;
+        font-size: 40px;
+        background-color:green;
+    }
+    #Rob{
+        color: brown;
+        font-size: 50px;
+        background-color: aqua;
+    }
+    .Love{
+        column-rule-color: aquamarine;
+        font-size: 30px;
+    }
+    .half-width{
+        font-size: 30 px;
+        color:yellow;
+        background-color: rebeccapurple;
+        border: 1px solid green;
+        border-radius: 5px;
+        margin: 0.5%;
+        padding: 1%;
+        width: 30%;
+        float: left;
+        text-align: justify;
+    }
+    .model{border: 1px solid red;}
+</Style>
